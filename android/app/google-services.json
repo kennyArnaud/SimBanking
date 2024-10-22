@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516137269082",
+    "project_id": "bankingsim-d0cc8",
+    "storage_bucket": "bankingsim-d0cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516137269082:android:feafc4a89c5b5eb1696563",
+        "android_client_info": {
+          "package_name": "com.example.bankingsim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUmLXIED-jfBzEF1Hsx2vevtqq4Pt0Q88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
